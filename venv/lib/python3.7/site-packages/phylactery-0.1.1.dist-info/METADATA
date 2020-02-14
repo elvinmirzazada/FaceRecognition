@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: phylactery
+Version: 0.1.1
+Summary: Curated collection of data structures for Python.
+Home-page: http://github.com/Yomguithereal/phylactery
+Author: Guillaume Plique
+Author-email: kropotkinepiotr@gmail.com
+License: MIT
+Keywords: url
+Platform: UNKNOWN
+Requires-Python: >=3
+Description-Content-Type: text/markdown
+
+[![Build Status](https://travis-ci.org/Yomguithereal/phylactery.svg)](https://travis-ci.org/Yomguithereal/phylactery)
+
+# Phylactery
+
+Curated collection of data structures for Python.
+
+## Installation
+
+You can install `phylactery` with pip with the following command:
+
+```
+pip install phylactery
+```
+
+## Usage
+
+WIP...
+
+
